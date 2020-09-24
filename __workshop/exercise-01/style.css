@@ -1,0 +1,37 @@
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.nav{
+    background-color: #393632; 
+    height: 5vh;
+    color: white;
+    
+}
+
+h3{
+    text-align: center;
+}
+
+.myArea{
+    
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content{
+    font-size: 75px;
+}
+
+
+
+.footer{
+    background-color:#393632;
+    height: 5vh;
+    color: white;
+}

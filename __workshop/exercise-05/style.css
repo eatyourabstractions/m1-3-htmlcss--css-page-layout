@@ -1,0 +1,20 @@
+
+
+.responsive{
+    height: auto;
+    width: calc(33.333333%);
+    
+
+
+}
+
+
+
+.container{
+
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    
+    
+}

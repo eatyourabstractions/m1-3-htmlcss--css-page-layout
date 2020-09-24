@@ -7,16 +7,22 @@ body {
 }
 
 .registration-form {
+  
+  
 }
 
 .text-field {
+  display: block;
+  margin: 0 auto;
 }
 
 .radio-label,
 .checkbox-label {
 }
 
+
 label {
+  margin: 0 auto;
 }
 
 .section {
@@ -35,4 +41,8 @@ textarea {
 }
 
 .form-button:hover {
+}
+
+*{
+  outline: 1px solid red;
 }

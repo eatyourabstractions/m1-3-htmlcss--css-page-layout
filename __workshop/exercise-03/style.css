@@ -1,0 +1,21 @@
+
+
+.body{
+    margin: 0;
+    background-image: url("imgs/bg.jpg");
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+    
+}
+
+.centered{
+    font-family: Poppins, serif;
+    color: white;
+    font-weight: bolder;
+    font-size: 25px;
+
+}

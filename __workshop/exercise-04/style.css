@@ -1,0 +1,42 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.content{
+    line-height: 2;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+.time {
+    padding: 0 10px 0 10px;
+    border-radius: 6px;
+    border-style: solid;
+    font-size: 20px;
+    
+}
+
+.centered{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+div, p, h1{
+    font-family: Poppins, serif;
+}
+
+h1{
+    margin-bottom: 5px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
